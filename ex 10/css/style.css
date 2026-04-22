@@ -1,0 +1,230 @@
+/* --- 1. RESET & NỀN TẢNG --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f2f5; /* Nền xám nhạt hiện đại */
+    color: #2c3e50;
+    line-height: 1.6;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* --- 2. HEADER (MÀU XANH ĐẬM) --- */
+header {
+    background: #1a2a6c; /* Xanh hoàng gia đậm */
+    background: linear-gradient(to right, #1a2a6c, #2a4858); 
+    color: #ffffff;
+    padding: 20px 0;
+    border-bottom: #f39c12 4px solid; /* Đường gạch cam dưới header */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+header #branding h1 {
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+
+header .highlight {
+    color: #f39c12; /* Màu cam nổi bật cho tên thương hiệu */
+    font-weight: bold;
+}
+
+header nav {
+    float: right;
+    margin-top: 10px;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 20px;
+}
+
+header nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+header nav a:hover, 
+header .current a {
+    color: #f39c12;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 5px;
+}
+
+/* --- 3. SHOWCASE (BANNER RỰC RỠ) --- */
+#showcase {
+    min-height: 450px;
+    background: linear-gradient(rgba(26, 42, 108, 0.7), rgba(178, 31, 31, 0.5)), 
+                url('https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg') no-repeat center center/cover;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+#showcase h1 {
+    font-size: 55px;
+    margin-bottom: 15px;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+}
+
+#showcase p {
+    font-size: 22px;
+    font-weight: 300;
+}
+
+/* --- 4. NEWSLETTER (MÀU CAM NĂNG LƯỢNG) --- */
+#newsletter {
+    padding: 30px;
+    background: #e67e22; /* Màu cam năng động */
+    color: #ffffff;
+}
+
+#newsletter h1 {
+    float: left;
+    font-size: 24px;
+}
+
+#newsletter form {
+    float: right;
+}
+
+#newsletter input[type="email"] {
+    padding: 12px;
+    width: 300px;
+    border-radius: 25px; /* Bo tròn cực đẹp */
+    border: none;
+    outline: none;
+}
+
+.button_1 {
+    height: 45px;
+    background: #2c3e50; /* Nút màu đen xám để tương phản với nền cam */
+    color: #fff;
+    padding: 0 30px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.button_1:hover {
+    background: #ffffff;
+    color: #e67e22;
+}
+
+/* --- 5. BOXES (THẺ DỊCH VỤ TRANG CHỦ) --- */
+#boxes {
+    margin: 50px 0;
+}
+
+#boxes .box {
+    float: left;
+    width: 31%;
+    padding: 30px;
+    text-align: center;
+    background: #ffffff;
+    border-radius: 15px;
+    margin: 0 1%;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+#boxes .box:hover {
+    transform: translateY(-15px); /* Hiệu ứng bay lên */
+    border-bottom: 5px solid #e67e22;
+}
+
+#boxes .box img {
+    width: 90px;
+    margin-bottom: 20px;
+    filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.1));
+}
+
+#boxes .box h3 {
+    color: #1a2a6c;
+    margin-bottom: 10px;
+}
+
+/* --- 6. TRANG CHI TIẾT (MAIN-COL & SIDEBAR) --- */
+#main .container {
+    display: flex;
+    gap: 30px;
+    padding: 40px 0;
+}
+
+article#main-col {
+    flex: 2;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+#services li {
+    list-style: none;
+    padding: 20px;
+    background: #fdfdfd;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+    border-left: 8px solid #f39c12; /* Cột màu cam đặc trưng */
+    border-radius: 5px;
+}
+
+#services li h3 {
+    color: #1a2a6c;
+}
+
+aside#sidebar .dark {
+    background: #1a2a6c;
+    color: #fff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.quote input, .quote textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+/* --- 7. FOOTER --- */
+footer {
+    background: #1a2a6c;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 50px;
+    border-top: 5px solid #e67e22;
+}
+
+/* --- 8. ĐÁP ỨNG DI ĐỘNG --- */
+@media(max-width: 768px) {
+    #main .container { flex-direction: column; }
+    header #branding, header nav, #newsletter h1, #newsletter form, #boxes .box {
+        float: none;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    #newsletter input[type="email"] { width: 100%; }
+}
