@@ -1,24 +1,41 @@
 MY WEB
-1. Chủ đề của trang web
-Trang web thuộc chủ đề Digital Marketing Agency (Công ty dịch vụ tiếp thị kỹ thuật số).
+1. Chủ đề (Topic)
+Website cá nhân dạng Portfolio (Hồ sơ năng lực). Đây là không gian số để giới thiệu về bản thân, phong cách làm việc và các sản phẩm sáng tạo mà Duy đã thực hiện.
 
-Mục tiêu chính của trang web là:
+2. Nội dung chính (Content)
+Cá nhân: Tóm tắt tiểu sử, triết lý sống và định hướng sự nghiệp.
 
-Quảng bá thương hiệu: Giới thiệu đơn vị "Ngoc Minh Digital" là một chuyên gia trong lĩnh vực marketing.
+Năng lực: Trình bày bộ kỹ năng (hard skills & soft skills).
 
-Tìm kiếm khách hàng: Thu thập thông tin liên hệ (Lead) thông qua biểu mẫu đăng ký nhận tin và form tư vấn.
+Thành tựu: Trưng bày các dự án đã tham gia kèm mô tả chi tiết.
 
-Cung cấp giải pháp: Trình bày rõ ràng các gói dịch vụ giúp doanh nghiệp phát triển doanh số trên internet.
+Kết nối: Cung cấp phương thức liên lạc trực tiếp.
 
-2. Nội dung chi tiết
-Nội dung được trình bày theo phong cách hiện đại, trực diện và tập trung vào hành động (Call to Action):
+3. Cấu trúc số trang (Structure)
+Website gồm 05 trang chính:
 
-Thông điệp chủ đạo (Showcase): "Giải Pháp Digital Marketing Đột Phá" – Đánh thẳng vào tâm lý mong muốn tăng trưởng của chủ doanh nghiệp.
+Trang Chủ (Home): Lời chào, câu slogan thương hiệu và tổng quan nhanh.
 
-Các mảng dịch vụ lõi: * Ads: Chạy quảng cáo đa nền tảng (Facebook, Google, TikTok).
+Giới thiệu (About): Chi tiết về hành trình phát triển của Nguyễn Anh Duy.
 
-SEO: Tối ưu hóa bộ máy tìm kiếm để lên top bền vững.
+Kỹ năng (Skills): Hệ thống các công cụ và chuyên môn kỹ thuật.
 
-Content: Sáng tạo nội dung để giữ chân khách hàng.
+Dự án (Portfolio): Danh mục các sản phẩm/dự án tiêu biểu.
 
-Tương tác khách hàng: Hệ thống đăng ký Email nhận tư vấn miễn phí được đặt ngay vị trí trang trọng giúp tăng tỷ lệ chuyển đổi.
+Liên hệ (Contact): Biểu mẫu gửi tin nhắn và liên kết mạng xã hội.
+
+4. Giao diện người dùng (UI Design)
+Phong cách tổng thể: Minimalism (Tối giản) với gam màu chủ đạo là Trắng, Đen và Xanh Navy để tạo cảm giác chuyên nghiệp, tin cậy.
+
+Trang Chủ: Giao diện Hero Section rộng, sử dụng Typography lớn và hình ảnh chân dung chất lượng cao.
+
+Trang Giới thiệu: Bố cục dạng dòng thời gian (Timeline) giúp người xem dễ dàng theo dõi quá trình trưởng thành của Duy.
+
+Trang Kỹ năng: Sử dụng các thẻ (Cards) trực quan và thanh biểu đồ tiến trình để đánh giá mức độ thành thạo công cụ.
+
+Trang Dự án: Thiết kế dạng lưới (Grid Layout), hình ảnh dự án có hiệu ứng phóng to khi di chuột (Hover effect).
+
+Trang Liên hệ: Giao diện tinh gọn với form nhập liệu trực quan và bản đồ số tích hợp
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4ccd7ebb-f063-498e-a8ff-8901694473a1" />
+
