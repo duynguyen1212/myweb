@@ -36,7 +36,8 @@ Trang Kỹ năng: Sử dụng các thẻ (Cards) trực quan và thanh biểu đ
 Trang Dự án: Thiết kế dạng lưới (Grid Layout), hình ảnh dự án có hiệu ứng phóng to khi di chuột (Hover effect).
 
 Trang Liên hệ: Giao diện tinh gọn với form nhập liệu trực quan và bản đồ số tích hợp
+<img width="369" height="242" alt="image" src="https://github.com/user-attachments/assets/74cfcd0d-900e-4754-be30-98b11b74d8f9" />
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/bfeb4f05-a2fd-4bdd-bd70-c51f4cd94eaa" />
+
 
 
