@@ -37,5 +37,6 @@ Trang Dự án: Thiết kế dạng lưới (Grid Layout), hình ảnh dự án 
 
 Trang Liên hệ: Giao diện tinh gọn với form nhập liệu trực quan và bản đồ số tích hợp
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4ccd7ebb-f063-498e-a8ff-8901694473a1" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/bfeb4f05-a2fd-4bdd-bd70-c51f4cd94eaa" />
+
 
