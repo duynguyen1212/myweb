@@ -28,6 +28,8 @@ Liên hệ (Contact): Biểu mẫu gửi tin nhắn và liên kết mạng xã h
 4. Giao diện người dùng (UI Design)
 Phong cách tổng thể: Minimalism (Tối giản) với gam màu chủ đạo là Trắng, Đen và Xanh Navy để tạo cảm giác chuyên nghiệp, tin cậy.
 
+công cụ: figma
+
 
 
 
