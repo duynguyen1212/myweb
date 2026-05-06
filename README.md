@@ -1,5 +1,5 @@
 MY WEB
-xin chào mình tên là nguyễn anh duy mình đang làm về red teamcyber security và đây là bản thiết kế website giới thiệu của mình 
+xin chào mình tên là nguyễn anh duy mình đang làm về red team cyber security và đây là bản thiết kế website giới thiệu của mình 
 1. Chủ đề (Topic)
 Website cá nhân dạng Portfolio (Hồ sơ năng lực). Đây là không gian số để giới thiệu về bản thân, phong cách làm việc và các sản phẩm sáng tạo mà Duy đã thực hiện.
 
