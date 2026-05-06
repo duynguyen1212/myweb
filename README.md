@@ -33,6 +33,9 @@ Phong cách tổng thể: Minimalism (Tối giản) với gam màu chủ đạo 
 
 <img width="1879" height="805" alt="dád" src="https://github.com/user-attachments/assets/7b01f525-a332-401b-8f6c-7bbd2aa2b0a3" />
 <img width="1919" height="1003" alt="Untitled" src="https://github.com/user-attachments/assets/737218da-2ce7-41df-8831-de9796d61b13" />
+<img width="1879" height="805" alt="dád" src="https://github.com/user-attachments/assets/0e88a9bf-abf1-4318-890e-7bd51a020ff2" />
+<img width="1919" height="969" alt="pặc" src="https://github.com/user-attachments/assets/f3d9b550-7749-482d-ba6c-d28327a0797d" />
+
 
 
 
