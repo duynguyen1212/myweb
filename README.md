@@ -33,10 +33,63 @@ công cụ: figma
 
 
 
+
 <img width="1879" height="805" alt="dád" src="https://github.com/user-attachments/assets/7b01f525-a332-401b-8f6c-7bbd2aa2b0a3" />
 <img width="1919" height="1003" alt="Untitled" src="https://github.com/user-attachments/assets/737218da-2ce7-41df-8831-de9796d61b13" />
 <img width="1879" height="805" alt="dád" src="https://github.com/user-attachments/assets/0e88a9bf-abf1-4318-890e-7bd51a020ff2" />
-<img width="1919" height="969" alt="pặc" src="https://github.com/user-attachments/assets/f3d9b550-7749-482d-ba6c-d28327a0797d" />
+<img width="1919" height="969" alt="pặc" src="https://github.com/user-attachments/assets/f3d9b550-7749-482d-ba6c-d28327a0797d" /> 
+
+chủ để: giới thiệu cá nhân porfolio 
+
+1. Trang Chủ (trang_chu.html)
+Chức năng: Là trang đích đầu tiên (Landing Page) khi người dùng truy cập vào website.
+
+Nhiệm vụ: * Giới thiệu tổng quan về danh tính: Nguyễn Anh Duy, một học viên Cybersecurity định hướng Red Team.
+
+Tạo ấn tượng ban đầu và định hướng người dùng đến các mục khác thông qua thanh điều hướng.
+
+Tóm tắt các kỹ năng trọng tâm hiện tại như: Phân tích mã độc, lập trình Python/Bash và quản trị Linux.
+
+2. Giới Thiệu (gioi_thieu.html)
+Chức năng: Cung cấp thông tin chi tiết về bản thân và lộ trình phát triển nghề nghiệp.
+
+Nhiệm vụ:
+
+Xác định vị trí hiện tại là một Beginner trong lĩnh vực an ninh mạng.
+
+Trình bày Lộ trình học tập rõ ràng: Từ kiến thức mạng (TCP/UDP, IP), sử dụng Linux đến các thư viện chuyên sâu như Scapy.
+
+Nêu rõ mục tiêu chinh phục các chứng chỉ chuyên môn như Network+ và CRTP.
+
+3. Dự Án (du_an.html)
+Chức năng: Trưng bày các thành quả học tập và kinh nghiệm thực hành.
+
+Nhiệm vụ: * Liệt kê danh sách các dự án cá nhân dưới dạng bảng (Table) để người xem dễ theo dõi.
+
+Chứng minh khả năng sử dụng các công cụ/công nghệ cụ thể:
+
+MyWeb Project: Kỹ năng xây dựng Repo và HTML.
+
+Network Tool: Kỹ năng lập trình Bash/Python.
+
+Lab Environment: Kỹ năng thiết lập môi trường ảo hóa (VMware/VirtualBox) để thực hành Pentest.
+
+4. Liên Hệ (lien_he.html)
+Chức năng: Cung cấp phương thức để người xem tương tác và kết nối với bạn.
+
+Nhiệm vụ:
+
+Cung cấp thông tin nhận diện: Họ tên và lĩnh vực hoạt động.
+
+Tạo Form liên hệ cho phép người dùng gửi tin nhắn trực tiếp (bao gồm các trường: Tên, Email, Nội dung).
+
+Dành sẵn các vị trí để cập nhật Email và GitHub cá nhân trong tương lai.
+
+GEMINI
+
+promt: dựa vào bản thiết kế mà mình đã gửi cho bạn hãy làm cho mình trang website HTML và CSS hiện đại chủ đề giới thiệu bản thân và lĩnh vực kinh nghiệm mà mình đã làm trong lĩnh vực của mình.
+
+
 
 
 
